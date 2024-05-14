@@ -1,0 +1,6 @@
+<RCC>
+  <qresource>
+    <file>images/BookStoreBackground.jpg</file>
+    <file>images/bookstore.png</file>
+  </qresource>
+</RCC>
