@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-The Online Bookstore Management System is a comprehensive platform designed to facilitate the browsing, searching, and purchasing of books for users. It also enables administrators to efficiently manage inventory, orders, and customer information.
+The Bookstore Management System is a comprehensive platform designed to facilitate the browsing, searching, and purchasing of books for users. It also enables administrators to efficiently manage inventory, orders, and customer information.
 
 ## Features
 
